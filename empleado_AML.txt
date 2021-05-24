@@ -1,0 +1,26 @@
+22934567P	Nicolas Fernandez	1500	NULL	NULL	Mañana	Limpieza
+72933844T	Rocio Diaz	900	NULL 	NULL 	Mañana	Limpieza
+92384321Q	Juan Navarro	900	NULL	NULL	Mañana	Limpieza
+69382837T	Sergio Rodriguez	900	NULL	NULL	Mañana	Limpieza
+69492824K	Pablo Dominguez	700	NULL	NULL	Mañana	Limpieza
+84929181W	Francisco Prieto	700	NULL	NULL	Mañana	Limpieza
+12345765L	Juana Verde	1500	NULL	NULL	Tarde	Limpieza
+13243578K	Ana Martinez	900	NULL	NULL	Tarde	Limpieza
+69382134Y	Maria Palomino	900	NULL	NULL	Tarde	Limpieza
+78204493R	Marc Prats	900	NULL	NULL	Tarde	Limpieza
+36938455M	Clara Montesquieu	700	NULL	NULL	Tarde	Limpieza
+79283742O	Patxi Iturriaga	700	NULL	NULL	Tarde	Limpieza
+59309458T	Andreu Vidal	1500	Base	9-14	NULL	Administracion
+69395858J	Yerai Perez	1500	Base	14-19	NULL	Administracion
+68274646R	Alejandra Soroya	1500	Avanzado	9-14 	NULL	Administracion
+99847271F	Carmen Vizcaino	1500	Avanzado	14-19	NULL	Administracion
+35684721T	Soraya Sanchez	1500	Root	19-23	NULL	Administracion
+20985832J	Ramon Sanchez	1500	Root	19-23	NULL	Administracion
+49283954H	Vadim Cavalera	1700	NULL	NULL	NULL	Monitor
+68382736J	Daniel Bizmano	1700	NULL	NULL	NULL	Monitor
+23945838T	Angela Coria	1700	NULL	NULL	NULL	Monitor
+95472734H	Juan A. Marchena	1700	NULL	NULL	NULL	Monitor
+23958538J	Sandra Veloz	1700	NULL	NULL	NULL	Monitor
+10483827P	Adela Ante	1700	NULL	NULL	NULL	Monitor
+49228374Q	Angel Brazo	1700 	NULL	NULL	NULL	Monitor
+46837173R	Sonia Serena	1700	NULL	NULL	NULL	Monitor
